@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 1ec3a166bd3dc430a8882a5ea39f154496488a62 Name <email@example.ru> 1715363144 +0300	commit (initial): initial commit
+1ec3a166bd3dc430a8882a5ea39f154496488a62 1ec3a166bd3dc430a8882a5ea39f154496488a62 Name <email@example.ru> 1715441784 +0300	checkout: moving from master to testbranch00
+1ec3a166bd3dc430a8882a5ea39f154496488a62 1ec3a166bd3dc430a8882a5ea39f154496488a62 Name <email@example.ru> 1715442551 +0300	checkout: moving from testbranch00 to master
